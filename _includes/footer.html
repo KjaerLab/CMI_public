@@ -12,7 +12,8 @@
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
-              {{ site.title | escape }}
+              <!--{{ site.title | escape }}-->
+              {{ "For inquiries, contact:" | escape }}
             {%- endif -%}
             </li>
             {%- if site.email -%}
