@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Cluster for Molecular Imaging is a translational research group at University of Copenhagen and Righospitalet, Copenhagen.
+Cluster for Molecular Imaging is a translational research group at University of Copenhagen and Rigshospitalet, Copenhagen.
